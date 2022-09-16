@@ -1,4 +1,5 @@
 <html>
+<title>Actividad de Fecha y Hora</title>
 	<table border="1">
 		<h2>Fecha y Hora</h2>
 			<thead>
